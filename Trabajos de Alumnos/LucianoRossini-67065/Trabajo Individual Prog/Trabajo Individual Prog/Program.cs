@@ -1,7 +1,7 @@
 ﻿
-/*
- EJERCICIO 1
- * String[] armas = {"espada", "hacha", "arco", "daga"};
+
+
+  String[] armas = {"espada", "hacha", "arco", "daga"};
 int[] durabilidad = new int[4];
 
 for (int i = 0; i < armas.Length; i++)
@@ -34,4 +34,5 @@ switch (menu)
         default:
         Console.WriteLine("opcion invalida");
         break;
-}*/
+}
+
