@@ -25,6 +25,7 @@ while (continuar)
     }
     Console.WriteLine ("corredores que superaron la prueba: " + contador);
     Console.WriteLine("Deseas seguir?");
+    Console.WriteLine("Aprete S/N");
     string respuesta = Console.ReadLine();
     if (respuesta == "n")
     {
